@@ -34,7 +34,8 @@ pip install yt-dlp ttkbootstrap
 Baixe em: https://ffmpeg.org/download.html
 
 e adicione ao PATH.
-
+Vídeo explicando o procedimento:
+https://www.youtube.com/watch?v=r1AtmY-RMyQ
 
 ▶️ Como usar
 
@@ -75,5 +76,6 @@ Threading para evitar travamentos na interface
 🧾 Licença
 
 Você pode modificar, distribuir e usar o código livremente para fins pessoais.
+
 
 Desenvolvido por https://github.com/Dondraper22
